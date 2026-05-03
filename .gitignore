@@ -1,0 +1,9 @@
+# Binaries
+main
+server.log
+server.pid
+.DS_Store
+
+# IDEs
+.vscode/
+.idea/
